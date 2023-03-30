@@ -1,2 +1,2 @@
 # automating-lucidweb
-Web Automation for LucidWeb Serveless Site Using Python Selenium
+Web Automation for LucidWeb Django AWS Lambda Serveless WebApp Using Python Selenium
