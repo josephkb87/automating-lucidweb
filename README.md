@@ -1,4 +1,5 @@
 ## automating-lucidweb
+[![CI](https://github.com/josephkb87/automating-lucidweb/actions/workflows/blank.yml/badge.svg)](https://github.com/josephkb87/automating-lucidweb/actions/workflows/blank.yml)
 
 ## [Web Automation](#addlink) for [Serveless WebApp](#addlink) Using [Python Selenium](#addlink)
 
