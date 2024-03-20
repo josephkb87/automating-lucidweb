@@ -6,7 +6,9 @@
 ## Description
 Web Automation for Serverless Web App.
 
-## Steps
+Lucidwebhost is a webhosting company that provides onsite or cloud infrastructure services to its clients worldwide.
+
+## Steps to replicate
 
 
 ## Usage
